@@ -3,7 +3,7 @@
 Plugin Name: Hello Craig
 Plugin URI: N/A
 Description: sample test plugin
-Version: 1.0
+Version: 1.1
 Author: Craig Swihart
 Author URI: N/A
 Text Domain: hello-craig
